@@ -4,7 +4,7 @@ Welcome to the Travel Journal project! Developed using the `React` framework alo
 
 ## Live Site
 
-- [Apple Calculator Dupe](https://apple-calculator-dupe.onrender.com/)
+- [Travel Journal](https://travel-journal-mi71.onrender.com)
 
 ## Table of contents
 
